@@ -8,13 +8,13 @@ The game asks the player a few simple questions about Radha and calculates the f
 
 ## ✨ Features
 
-- 🎮 Interactive command-line gameplay
-- ❓ 3 quiz questions
-- ✅ Automatic score calculation
-- 📊 Percentage calculation
-- 🏆 Final result display
-- 😊 Different messages based on the score
-- 💻 Simple and beginner-friendly Python code
+-  Interactive command-line gameplay
+-  3 quiz questions
+-  Automatic score calculation
+-  Percentage calculation
+-  Final result display
+-  Different messages based on the score
+-  Simple and beginner-friendly Python code
 
 ---
 
